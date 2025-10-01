@@ -1,4 +1,4 @@
-# Tash-5-EDA
+# Task-5-EDA
 Exploratory Data Analysis (EDA) on the Titanic dataset using Python (Pandas, Matplotlib, Seaborn). The project explores survival patterns by gender, passenger class, age, and fare, with visualizations and summary insights.
 # Titanic Dataset - Exploratory Data Analysis (EDA)
 
